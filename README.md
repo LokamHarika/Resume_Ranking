@@ -25,7 +25,7 @@ Make sure you have **Python 3.8+** installed on your system.
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/LokamHarika/Resume_Ranking/tree/main
+git clone https://github.com/LokamHarika/Resume_Ranking
 cd resume-ranking-system
 ```
 
